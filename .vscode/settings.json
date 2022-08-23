@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.md": "plaintext",
+    "algorithm": "c",
+    "ios": "c",
+    "locale": "c",
+    "ostream": "c",
+    "random": "c",
+    "ratio": "c",
+    "bit": "c",
+    "*.tcc": "c",
+    "bitset": "c"
+  }
+}
